@@ -8,7 +8,7 @@
   {
     "type": "微信",
     "icon": "fab fa-weixin",
-    "qrCode": "https://qiqinb.cn/wechat-qrcode.png",
+    "qrCode": "https://qiqinb.com/wechat-qrcode.png",
     "hoverColor": "#2eba02"
   },
   {
@@ -26,7 +26,7 @@
   {
     "type": "支付宝收款",
     "icon": "fab fa-alipay",
-    "qrCode": "https://qiqinb.cn/alipay-shoukuan-qrcode.jpg",
+    "qrCode": "https://qiqinb.com/alipay-shoukuan-qrcode.jpg",
     "hoverColor": "#007aff"
   },
   {
