@@ -1,0 +1,33 @@
+[
+  {
+    "name": "个人空间",
+    "url": "https://space.qiqinb.cn",
+    "icon": "fa fa-blog"
+  },
+  {
+    "name": "极速网盘",
+    "url": "https://www.cdnpan.cn",
+    "icon": "fa-solid fa-cloud"
+  },
+  {
+    "name": "服务监控",
+    "url": "https://monitor.qiqinb.cn",
+    "icon": "fas fa-server"
+  },
+  {
+    "name": "作业记录",
+    "url": "https://homework.qiqinb.cn",
+    "icon": "fa-solid fa-book"
+  },
+  {
+    "name": "免费图床",
+    "url": "https://pic.qiqinb.cn",
+    "icon": "fa-solid fa-image"
+  },
+  {
+    "name": "自建AI",
+    "url": "https://ai.qiqinb.cn",
+    "icon": "fa-solid fa-brain"
+  }
+
+]

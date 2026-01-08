@@ -1,0 +1,44 @@
+[
+  {
+    "type": "QQ",
+    "icon": "fab fa-qq",
+    "url": "https://qm.qq.com/q/LKx3AHlucq",
+    "hoverColor": "#007aff"
+  },
+  {
+    "type": "微信",
+    "icon": "fab fa-weixin",
+    "qrCode": "https://qiqinb.cn/wechat-qrcode.png",
+    "hoverColor": "#2eba02"
+  },
+  {
+    "type": "邮箱",
+    "icon": "fas fa-envelope",
+    "url": "mailto:admin@qiqinb.cn",
+    "hoverColor": "#e78b0a"
+  },
+  {
+    "type": "Github",
+    "icon": "fab fa-github",
+    "url": "https://github.com/qiqizyc",
+    "hoverColor": "#6500fc"
+  },
+  {
+    "type": "支付宝收款",
+    "icon": "fab fa-alipay",
+    "qrCode": "https://qiqinb.cn/alipay-shoukuan-qrcode.jpg",
+    "hoverColor": "#007aff"
+  },
+  {
+    "type": "Bilibili",
+    "icon": "fa-brands fa-bilibili",
+    "url": "https://space.bilibili.com/3537125760829930",
+    "hoverColor": "#00a1d6"
+  },
+  {
+    "type": "服务器监控",
+    "icon": "fas fa-server",
+    "url": "https://monitor.qiqinb.cn",
+    "hoverColor": "#FF0000"
+  }
+]
