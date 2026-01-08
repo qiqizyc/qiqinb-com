@@ -12,15 +12,15 @@
           </ul>
         </div>
         <div class="github-info">
-          <h3>开源地址（尊重原作者！）</h3>
-          <a href="https://github.com/JLinMr/Home-Vue" target="_blank" class="github-link">
+          <h3>开源地址</h3>
+          <a href="https://github.com/qiqizyc/qiqinb-com" target="_blank" class="github-link">
             <i class="fab fa-github"></i> Github
           </a>
         </div>
         <div class="update-info">
           <h3>*这位qiqinb是谁？</h3>
           <p style="text-align: left !important;">
-          我是一个热爱Web开发、喜欢搭网站的人。
+          我是一个热爱Web开发、喜欢搭网站的初三牲（
           <br/>
           （以下纯属放屁：）精通JavaScript, TypeScript, HTML, CSS, React, Vue.js, Angular, Svelte, Next.js, Nuxt.js, Node.js, Express.js, Python, Django, Flask, PHP, Laravel, Symfony, Java, Spring Boot, C#, ASP.NET Core, Ruby, Ruby on Rails, Go, Gin, Rust, Actix, SQL, MySQL, PostgreSQL, MongoDB, Redis, GraphQL, Apollo, Webpack, Vite, Docker, Kubernetes, Git, REST API
         </p>
