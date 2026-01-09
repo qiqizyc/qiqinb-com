@@ -3,7 +3,7 @@
     <div class="about-modal">
       <div class="about-modal-content">
         <div class="tech-stack">
-          <h3>使用的技术栈</h3>
+          <h2>使用的技术栈</h2>
           <ul class="tech-list">
             <li v-for="tech in techStack" :key="tech.name" :class="['tech-item', tech.name.toLowerCase()]">
               <i :class="tech.icon"></i>
@@ -11,20 +11,27 @@
             </li>
           </ul>
         </div>
+        <div class="update-info">
+          <h2>*这位qiqinb是谁？</h2>
+          <p style="text-align: left !important;">
+          我是一个热爱Web开发、喜欢搭网站的初三牲（
+          </p>
+        </div>
+        <div class="update-info">
+          <h2>本网站服务商</h2>
+          <p style="text-align: left !important;">
+            CDN：百度云CDN [国内]<br/>
+            源站：阿里云OSS（公开读Bucket）<br/>
+            构建：阿里云Serverless边缘函数<br/>
+          </p>
+        </div>
         <div class="github-info">
-          <h3>开源地址</h3>
+          <h2>开源地址</h2>
           <a href="https://github.com/qiqizyc/qiqinb-com" target="_blank" class="github-link">
             <i class="fab fa-github"></i> Github
           </a>
         </div>
-        <div class="update-info">
-          <h3>*这位qiqinb是谁？</h3>
-          <p style="text-align: left !important;">
-          我是一个热爱Web开发、喜欢搭网站的初三牲（
-          <br/>
-          （以下纯属放屁：）精通JavaScript, TypeScript, HTML, CSS, React, Vue.js, Angular, Svelte, Next.js, Nuxt.js, Node.js, Express.js, Python, Django, Flask, PHP, Laravel, Symfony, Java, Spring Boot, C#, ASP.NET Core, Ruby, Ruby on Rails, Go, Gin, Rust, Actix, SQL, MySQL, PostgreSQL, MongoDB, Redis, GraphQL, Apollo, Webpack, Vite, Docker, Kubernetes, Git, REST API
-        </p>
-        </div>
+        
       </div>
       <button @click="closeModal" class="close-btn">
         <i class="fas fa-times"></i>
