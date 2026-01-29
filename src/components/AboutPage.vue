@@ -16,6 +16,7 @@
           <p style="text-align: left !important;">
           我是一个热爱Web开发、喜欢搭网站的初三牲（
           </p>
+          <a href="https://space.qiqinb.cn/PVP5.0.html" target="_blank" class="github-link">点击前往小游戏</a>
         </div>
         <div class="update-info">
           <h2>本网站服务商</h2>
