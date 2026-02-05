@@ -12,7 +12,7 @@
           </ul>
         </div>
         <div class="update-info">
-          <h2>*这位qiqinb是谁？</h2>
+          <h2>*qiqinb是谁？</h2>
           <p style="text-align: left !important;">
           我是一个热爱Web开发、喜欢搭网站的初三牲（
           </p>
@@ -21,8 +21,8 @@
         <div class="update-info">
           <h2>本网站服务商</h2>
           <p style="text-align: left !important;">
-            CDN：百度云CDN [国内]<br/>
-            源站：阿里云OSS（公开读Bucket）<br/>
+            CDN：乐帆云SCDN [全球]<br/>
+            源站：阿里云OSS（公开Bucket）<br/>
             构建：阿里云Serverless边缘函数<br/>
           </p>
         </div>
